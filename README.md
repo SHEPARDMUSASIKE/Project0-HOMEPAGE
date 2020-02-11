@@ -1,13 +1,5 @@
 # Project 0
 
-
-# contents 
-  # 1)project title
-  # 2)description
-  # 3)technologies
-
-
-
 # 1)project title
    -The title of my project is PageZimbabwe
 
