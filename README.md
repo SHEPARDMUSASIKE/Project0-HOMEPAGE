@@ -13,6 +13,9 @@
 ## 3)technologies
    * written in html,css and scss
    * l used Visual Studio Code to compile my code
+   
+   
+  ### visit : https://shepardmusasike.github.io/Project0-HOMEPAGE/.
 
 
 
